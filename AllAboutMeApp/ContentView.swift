@@ -3,7 +3,7 @@
 //  AllAboutMeApp
 //
 //  Created by Scholar on 7/27/23.
-//
+//My program
 
 import SwiftUI
 
@@ -43,7 +43,7 @@ struct ContentView: View {
                         .multilineTextAlignment(.center)
                         
                     
-                    
+                   
                     
                 }//closing hstack
                 Text("")
